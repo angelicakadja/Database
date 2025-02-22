@@ -6,7 +6,7 @@
 
 <br/>
 
-<img width="100" align="center" src="./assets/IA-aplicada-a-dados-png (1).png">
+<img width="100" align="center" src="./assets/IA-aplicada-a-dados-png.png">
 
 <br/>
 
