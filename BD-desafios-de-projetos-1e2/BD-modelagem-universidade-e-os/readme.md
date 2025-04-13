@@ -66,7 +66,7 @@
 - 🛍️ E-commerce:
 <br>
 
-  <div>  &nbsp; &nbsp;<img width="500" align="center" src="./assets/fluxogramas/e-commerce/e-commerce.png"> </div>
+  <div>  &nbsp; &nbsp;<img width="500" align="center" src="../BD-desafio-de-projeto-ecommerce/e-commerce/e-commerce-AK.png"> </div>
 
 <br>
 
