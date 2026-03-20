@@ -1,14 +1,16 @@
-<p align="center">
+<div align="center">
+
+<p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&height=100&lines=Bem-vindo(a)+ao+meu+Database+Playground!;SELECT+*+FROM+knowledge+WHERE+fun+%3D+true;;MATCH+(n:Idea)-[:CONNECTED_TO]-%3E(m:Project);Tabelas%2C+Linhas+e+Muitos+N%C3%B3s!;D%C3%AA+um+Star+%E2%AD%90" alt="Typing SVG" />
   </a>
 </p>
 
-<img width="600" align="center" src="../Database/00-img/Repositório GitHub - Database.png">
+<img width="600" src="../Database/00-img/Repositório GitHub - Database.png">
 
 <br/>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D5FF&center=true&vCenter=true&width=600&height=100&lines=DATABASE+ENGINEERING;SQL+%2B+NEO4J;De+Tabelas+a+Grafos" alt="Typing SVG" />
 </p>
 
