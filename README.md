@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img width="600" src="../Database/00-img/Repositório GitHub - Database.png">
+<img src="./00-img/Repositório GitHub - Database.png" width="600" alt="Polvinho do GitHub trabalhando com SQL e Grafos com Neo4j!">
 
 <br/>
 
