@@ -4,7 +4,7 @@
 
 <div align='center'>
 
-<img src="../img/01-Imagem projeto01.png" width="400" />
+<img src="./img/Capa-Projeto01.png" width="400" />
 
 <br/>
 
